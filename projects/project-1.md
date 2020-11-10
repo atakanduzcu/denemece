@@ -14,8 +14,8 @@ summary: I have been involved in the design and construction of the Jetson's Rob
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/robots.jpg">
+  <img class="ui image" src="../images/cizim.jpeg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
