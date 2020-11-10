@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "atakanduzcu",
-        "url": "http://linkedin.com/in/atakanduzcu"
+        "url": "https://www.linkedin.com/in/atakan-duzcu-201436172/"
       },
       {
         "network": "twitter",
@@ -34,6 +34,11 @@
         "network": "instagram",
         "username": "atakanduzcu",
         "url": "http://instagram.com/atakanduzcu"
+      },
+      {
+        "network": "e-mail",
+        "username": "atakanduzcu",
+        "url": "atakanduzcu@gmail.com"
       }
     ]
   },
