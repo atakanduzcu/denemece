@@ -1,1 +1,1 @@
-# atakanduzcu.github.io
+# çko yaknda buraDa .s.s..s
