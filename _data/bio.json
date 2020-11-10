@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Atakan Duzcu",
+    "label": "Student",
+    "picture": "https://atakanduzcu.github.io/template/images/molly.png",
+    "email": "atakanduzcu@gmail.com",
+    "phone": "537 050 4924",
+    "website": "https://duzcu.me",
+    "summary": "I'm Atakan and 18 years old. I am studying Mechatronics at Uludağ University and at the same time I am the mechanical mentor of my old high school robot team.",
+    "location": {
+      "address": "",
+      "postalCode": "34000",
+      "city": "İstanbul",
+      "countryCode": "TR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "atakanduzcu",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "linkedin",
+        "username": "atakanduzcu",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "atakanduzcu",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "atakanduzcu",
+        "url": "http://instagram.com/changeme"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Robotic",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Social Media",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Adobe Photoshop",
+      "level": "Veteran",
+      "keywords": [
+              ]
+    },
+    {
+      "name": "Adobe İllustrator",
+      "level": "Rookie",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Adobe After Effects",
+      "level": "Rookie",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Solidworks",
+      "level": "Veteran",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Autocad",
+      "level": "Rookie",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Social Media Managament",
+      "level": "Veteran",
+      "keywords": [
+      ]
+    },
+  ],
+  "education": [
+    {
+      "institution": "Uludağ University,Bursa,Turkey",
+      "area": "Mechatronics",
+      "studyType": "1st Class",
+      "startDate": "01-10-2020",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "not now",
+      "position": "not now",
+      "website": "not now",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Jetson's Robotics",
+      "website": "http://6435.team",
+      "position": "Mechanical Mentor",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Robot team's mechanical mentor",
+      "highlights": [
+        "I am responsible for the drawing and construction of the robot",
+        "I convey my experiences to the students of the team."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Quality Award",
+      "date": "2020",
+      "awarder": "Jetson's Robotics",
+      "summary": "This award is given to robots at the world's most prestigious robot competition FRC. Jetson's Robotics 6435 team, where I worked in the design department, won this award."
+    }
+  ],
+  "references": [
+    {
+      "name": "Coming Soon...",
+      "reference": ""
+    }
+  ]
+}
