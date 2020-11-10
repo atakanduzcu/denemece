@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/robots.jpg
 title: Robot Design and Build
-permalink: projects/micromouse
+permalink: projects/robotics
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
