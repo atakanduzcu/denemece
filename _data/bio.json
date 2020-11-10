@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Robotic",
+      "name": "Robotics",
       "keywords": [
       ]
     },
@@ -58,36 +58,42 @@
       "name": "Adobe Photoshop",
       "level": "Veteran",
       "keywords": [
+        "Photo edit", "Decup", "Social Media Design", "Logo"
               ]
     },
     {
       "name": "Adobe İllustrator",
       "level": "Rookie",
       "keywords": [
+        "Logo"
       ]
     },
     {
       "name": "Adobe After Effects",
       "level": "Rookie",
       "keywords": [
+        "Lyrics Video"
       ]
     },
     {
       "name": "Solidworks",
       "level": "Veteran",
       "keywords": [
+        "Robot Design"
       ]
     },
     {
       "name": "Autocad",
       "level": "Rookie",
       "keywords": [
+        "Robot Design"
       ]
     },
     {
       "name": "Social Media Managament",
       "level": "Veteran",
       "keywords": [
+        "Social Media SMM service"
       ]
     },
   ],
@@ -96,7 +102,7 @@
       "institution": "Uludağ University,Bursa,Turkey",
       "area": "Mechatronics",
       "studyType": "1st Class",
-      "startDate": "01-10-2020",
+      "startDate": "2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
