@@ -6,17 +6,20 @@
 // Here are some common customizations for colors
 
 // Customize the background color
+// Customize the background color
 body {
-   background-color: #212121;
+ // background: linear-gradient(to bottom right, aliceblue, whitesmoke);
+ background: #F4F5F6;
 }
 
 // Customize the menubar color
 .ui.menu {
-   background: lighten(silver, 10%);
+  // background: aliceblue;
+  background: #f3f6fa;
 }
 
 // Customize the home page icon colors
 .icon-color {
-   color: darken(purple, 40%);
+  color: 9974dd;
 }
 
